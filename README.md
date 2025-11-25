@@ -1,5 +1,7 @@
 # Introducing Nitin Singh Kanyal
 
+![Nitin Singh Kanyal](60A35B7B-595B-4D30-B3B0-0CB4CA4DEEA8.png)
+
 I’m a passionate full-stack software developer with deep experience in building scalable web applications and cloud-native systems. With hands-on expertise across C#, Java, JavaScript, and Python, I love turning complex problems into elegant, reliable solutions.
 
 I earned my B.Tech from IIT Jodhpur, and today I’m a Software Development Engineer (SDE 1) at Microsoft. In my current role, I design and maintain a suite of microservices that power personalized advertising across major Microsoft surfaces.
